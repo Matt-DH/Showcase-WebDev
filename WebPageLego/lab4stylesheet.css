@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(60, 70, 220);
+}
+
+#header-text{
+    color: white;
+    font-family: Space Mono;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+ul {
+    background-color: rgb(49, 26, 0);
+}
+
+.red {
+    color: red;
+}
+
+.yellow {
+    color: yellow
+}
